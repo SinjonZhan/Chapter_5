@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\language\androidcode\Chapter_5\app\libs\nineoldandroids.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d6197c1913cc3eae6cd2e4137498fbec94971b6">
+        <dex dex="D:\Desktop\language\androidcode\Chapter_5\app\build\intermediates\pre-dexed\debug\nineoldandroids_c3b8d6e35f1d60dd8d4a175dbef31546f194c33b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Desktop\language\SDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Desktop\language\androidcode\Chapter_5\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_c2ce1a37304d94457e812528e6d665cee3b7906d.jar" />
+    </item>
+
+</items>

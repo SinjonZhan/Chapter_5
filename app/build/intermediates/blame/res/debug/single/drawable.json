@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Desktop\\language\\androidcode\\Chapter_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_bkg.xml",
+        "source": "D:\\Desktop\\language\\androidcode\\Chapter_5\\app\\src\\main\\res\\drawable\\common_bkg.xml"
+    },
+    {
+        "merged": "D:\\Desktop\\language\\androidcode\\Chapter_5\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.xml",
+        "source": "D:\\Desktop\\language\\androidcode\\Chapter_5\\app\\src\\main\\res\\drawable\\edit.xml"
+    }
+]
